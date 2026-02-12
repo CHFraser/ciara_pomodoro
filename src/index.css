@@ -9,7 +9,7 @@
 body {
   font-family: "Montserrat";
   font-weight: normal;
-  background-image: url("hero2.jpg");
+  background-image: url("/public/hero2.jpg");
   background-position: center;
   background-repeat: none;
   background-size: cover;
