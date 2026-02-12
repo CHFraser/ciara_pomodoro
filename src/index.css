@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-autumn: #f94150;
+  --color-offwhite: #f8edeb;
+}
+
+body {
+  font-family: "Montserrat";
+  font-weight: normal;
+  background-image: url("hero2.jpg");
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
+}
